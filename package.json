@@ -1,0 +1,20 @@
+{
+  "name": "cli-pswd-gen",
+  "version": "1.0.0",
+  "description": "my personal pswd generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "password",
+    "generator"
+  ],
+  "author": "issx404",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "clipboardy": "^5.0.0"
+  }
+}
