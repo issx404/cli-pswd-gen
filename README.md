@@ -15,4 +15,6 @@ _(сгенерируется пароль длиной в 8 символов)_
 ```bash
 npm start 8 save
 npm start 8 copy
+npm start 8 copy save
+npm start 8 save copy
 ```
