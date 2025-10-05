@@ -1,5 +1,13 @@
 # Генератор паролей
 
+скачивание исходников:
+
+```bash
+git clone https://github.com/issx404/cli-pswd-gen.git
+cd cli-pswd-gen
+npm install
+```
+
 ## Опции:
 
 первая опция **обязательная** - длина символов в генерируемом пароле:
